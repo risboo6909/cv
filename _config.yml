@@ -215,7 +215,9 @@ content:
       - Traveling
 
       I also have a cat, Newton, just look at him, isn't he cute?
-      ![Newton](/cv/images/newton.png "Newton")
+
+      
+      <img src="https://risboo6909.github.io/cv/images/newton.png" alt="Newton" title="Newton" width="400"/>
 
 # Footer
 footer_show_references: true
