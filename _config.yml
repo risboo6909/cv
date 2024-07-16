@@ -214,8 +214,8 @@ content:
       - Watching movies
       - Traveling
 
-      Look at this cool image I made
-      ![Amsterdam](/cv/images/amsterdam.jpg "Amsterdam")
+      I also have a cat, Newton, just look at him, isn't he cute?
+      ![Newton](/cv/images/newton.png "Newton")
 
 # Footer
 footer_show_references: true
